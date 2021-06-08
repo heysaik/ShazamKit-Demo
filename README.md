@@ -2,7 +2,7 @@
 # ShazamKit Demo
 Using the ShazamKit framework announced at WWDC 2021 to perform song recognition. 
 
-![Demo Tweet](https://twitter.com/heysaik/status/1402334173898018822?s=21)
+[Demo Tweet](https://twitter.com/heysaik/status/1402334173898018822?s=21)
 
 ## Usage
 1. Open the project and change the Bundle ID. 
